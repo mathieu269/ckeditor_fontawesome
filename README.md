@@ -3,7 +3,7 @@ Extension qui ajoute l'utilisation de Font Awesome dans l'extension de CKEditor 
 
 ## Installation
 
-1. Récupérez les extensions "Font Awesome" et "Color Dialog" pour CKEditor aux adresses suivantes : 
+1. Récupérez les extensions "Font Awesome" et "Color Dialog" pour CKEditor aux adresses suivantes :  
 http://ckeditor.com/addon/fontawesome  
 http://ckeditor.com/addon/colordialog  
 2. Décompressez ces extensions dans le répertoire plugins/ckeditor/ckeditor/plugins
